@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nell254
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on anything coding related
 - 📫 How to reach me; email - nmwembe@gmail.com
 
