@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Nelson
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Scala
-- 💞️ I’m looking to collaborate on anything coding related
-- 📫 How to reach me; email - nmwembe@gmail.com
+### Hello there 👋
 
-<!---
-Nell254/Nell254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### A Data Engineer by profession ☼ and a pool shark for fun ☾
+
+Freelancer at Upwork;<br>
+Looking to collaborate on anything data related;<br>
+Learning all about **Generative AI**;<br>
+`         ` 
